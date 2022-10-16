@@ -1,0 +1,5 @@
+train: ../yolov7/dataset2/train/images
+val: ../yolov7/dataset2/val/images
+
+nc: 5
+names: ['bakso','burger','nasi_goreng','nasi_padang','sate']
